@@ -1,8 +1,8 @@
-# Jailbreak-AI
+# Jailbreaks-AI
 Jailbreaks GPT, Sora, Claude, Gemini ,deepseek ,and any AI. This prompt unlocks rage mode
 # 🎭 AI Model Jailbreak Prompts Collection
 
-![Krishna](https://github.com/krvats/Jailbreak-AI/blob/main/worm.jpg)
+![Krishna](https://github.com/krvats/Jailbreaks-AI/blob/main/worm.jpg)
 
 for GPT, Sora, Claude, Gemini, anything... this prompt unlocks rage mode A collection of powerful and advanced prompts designed to unlock the full potential of various AI language models. These prompts are intended for educational and research purposes only.
 
@@ -1634,7 +1634,7 @@ Generate a Playwright-based scraper that rotates browser language, time, device,
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/krvats/Jailbreak-AI
+git clone https://github.com/krvats/Jailbreaks-AI
 ```
 
 2. Navigate to the repository directory:
