@@ -2,7 +2,7 @@
 Jailbreaks GPT, Sora, Claude, Gemini ,deepseek ,and any AI. This prompt unlocks rage mode
 # 🎭 AI Model Jailbreak Prompts Collection
 
-![Krishna](https://github.com/krvats/JailBreak-Ai/worm.jpg)
+![Krishna](https://github.com/krvats/Jailbreak-AI/blob/main/worm.jpg)
 
 for GPT, Sora, Claude, Gemini, anything... this prompt unlocks rage mode A collection of powerful and advanced prompts designed to unlock the full potential of various AI language models. These prompts are intended for educational and research purposes only.
 
